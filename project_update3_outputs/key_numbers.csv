@@ -1,0 +1,11 @@
+,value
+n_users,206209.0
+n_prior_orders,3214874.0
+popular_threshold_count_q90,1021.0
+mean_delta_popular_share,-0.0014854570871511614
+median_delta_popular_share,0.0
+mean_delta_unique_ratio,0.0
+median_delta_unique_ratio,0.0
+first20_popular_share_slope_per_order,0.0014628237337391116
+first20_unique_ratio_slope_per_order,1.6579035765275253e-17
+first20_hhi_slope_per_order,-0.00069307311655099
