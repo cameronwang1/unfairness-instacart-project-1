@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python environments and caches
+.venv/
+.analysis_venv/
+.cache/
+__pycache__/
+
+# Large raw Instacart source data (keep local, don't publish)
+aisles.csv
+departments.csv
+orders.csv
+products.csv
+order_products__prior.csv
+order_products__train.csv
+
+# Nested accidental repo folder
+unfairness-instacart-project/
